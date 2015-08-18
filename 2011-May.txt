@@ -1,0 +1,17 @@
+From andy74 at users.berlios.de  Sun May  1 13:36:23 2011
+From: andy74 at users.berlios.de (andy74 at users.berlios.de)
+Date: Sun, 1 May 2011 13:36:23 +0200
+Subject: [SubString-announcement] SubString: beta version released
+Message-ID: <EF34FB33-C365-451B-A2F1-382EAAB4FB4E@users.berlios.de>
+
+Hello.
+
+A public beta of SubString (Version 0.7) has just been released. To download, visit http://developer.berlios.de/projects/substrd/.
+
+Regards,
+
+Andy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/substrd-announcement/attachments/20110501/d17ad878/attachment.html>
+

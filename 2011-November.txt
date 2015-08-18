@@ -1,0 +1,17 @@
+From andy74 at users.berlios.de  Wed Nov  9 20:16:04 2011
+From: andy74 at users.berlios.de (andy74 at users.berlios.de)
+Date: Wed, 9 Nov 2011 20:16:04 +0100
+Subject: [SubString-announcement] SubString Project now found at github
+Message-ID: <6E3B9FF9-7020-40D9-BD30-2D4CFA5F2581@users.berlios.de>
+
+Hello!
+
+Following the announcement that the BerliOS software repository will shut down at the end of the year, the SubString Project has moved to github. Please visit us at http://andy740.github.com/SubString/index.html !
+
+Regards,
+
+Andy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/substrd-announcement/attachments/20111109/2fd322d7/attachment.html>
+
